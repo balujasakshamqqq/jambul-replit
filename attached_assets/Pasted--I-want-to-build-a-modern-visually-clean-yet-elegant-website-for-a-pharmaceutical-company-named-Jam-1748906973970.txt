@@ -1,0 +1,84 @@
+
+I want to build a modern, visually clean yet elegant website for a pharmaceutical company named Jambul Enterprises Pvt. Ltd., inspired by the clean design language of Framer, with smooth animations (like Framer Motion), clear hierarchy, and blue & white as the primary brand colors (deep royal blue for buttons, highlights, icons; white background or light gradients).
+
+The company operates from India, with its pharmaceutical manufacturing facility located in Ghiloth, Rajasthan, and HQ in New Delhi. It competes with companies like Sterile India, and aims to project trust, regulatory strength, and innovation.
+
+⸻
+
+🏗️ Website Structure (7 Main Pages)
+
+Please generate page layouts with clean grid-based design, mobile responsiveness, and smooth transitions:
+	1.	Home
+	•	Tagline: “Creative Chemistry for a Better Tomorrow”
+	•	Subheading: “State-of-the-art pharmaceutical manufacturing in Rajasthan, India”
+	•	Hero image: aerial/facility shot or molecular structure (in royal blue)
+	•	Highlights with icons:
+	•	3 Advanced Production Blocks
+	•	WHO-GMP Certified
+	•	Global Regulatory Compliance
+	•	Flexible B2B Manufacturing
+	•	CTA: “Explore Our Capabilities”
+	2.	About Us
+	•	Headline: “Who We Are”
+	•	Paragraph on company mission & future vision
+	•	Sections:
+	•	Mission: To harness creative chemistry…
+	•	Vision: To be a global leader…
+	•	Core Values (5 icons or badges): Innovation, Integrity, Collaboration, Quality, Sustainability
+	•	Optional: Timeline of company journey / message from founder
+	3.	Our Production Blocks
+	•	Overview: 3 specialized blocks with animation-on-scroll or tabs:
+	•	Block I: Chemical Synthesis (API & intermediates)
+	•	Block II: Formulation (tablets & capsules)
+	•	Block III: Sterile & High-Potency Injectables
+	•	Summary line: “End-to-end pharmaceutical manufacturing under one roof.”
+	•	CTA: Download Facility PDF
+	4.	Certifications & Quality
+	•	Headline: “Our Commitment to Quality”
+	•	Display logos of: WHO-GMP, ISO 9001:2015, ISO 14001:2015
+	•	Short paragraph: Emphasize rigorous QC labs, QA audits, and client inspections
+	•	Quote: “Every partnership is a promise of quality.”
+	5.	News & Updates
+	•	Layout: Blog-style grid with feature images
+	•	Sample Posts:
+	•	“Jambul Achieves WHO-GMP for All Three Blocks”
+	•	“Jambul at CPhI India 2025 – Meet Us There”
+	•	Optional: Newsletter subscribe block
+	6.	Careers
+	•	Headline: “Join Our Journey”
+	•	Paragraph: Team spirit, culture, mission-driven science
+	•	Roles (mock listings):
+	•	QC Analyst – Ghiloth Plant
+	•	Production Supervisor – Block II
+	•	Executive Assistant – Delhi HQ
+	•	CTA: Apply via email (careers@jambul.com)
+	7.	Contact Us
+	•	Section Title: “Let’s Connect”
+	•	Two Address blocks:
+	•	Delhi HQ
+	•	Rajasthan Plant
+	•	Emails: info@jambul.com, operations@jambul.com
+	•	Contact form: Name, Email, Company, Message
+	•	Google Map Embed (plant location)
+	•	Footer with quick links + social icons (optional)
+
+⸻
+
+🎨 Style Preferences
+	•	Color Palette:
+	•	Primary: #0052cc (deep blue)
+	•	Accent: White background
+	•	Minimal neutrals for text/background contrast
+	•	Typography: Clean, modern sans-serif (e.g. Inter, Poppins, DM Sans)
+	•	Animation: Subtle, responsive transitions (fade-in, scroll-in, hover scale) using Framer Motion or similar
+	•	Design Vibe: Precision, science-driven, globally trusted, but futuristic and sleek
+
+⸻
+
+🌐 Optional Features
+	•	Language Switcher (EN | HI | FR) in header
+	•	Sticky Navbar
+	•	Downloadable PDFs
+	•	Fully SEO-optimized structure and meta-data slots
+	•	Dark mode toggle (optional)
+	•	CMS-ready for News & Careers sections
